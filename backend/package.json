@@ -11,7 +11,7 @@
   "dependencies": {
     "@octokit/rest": "^17.1.2",
     "aws-sdk": "^2.647.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "octokit-create-pull-request": "^1.4.2",
     "source-map-support": "^0.5.16"
   },
